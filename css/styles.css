@@ -2,6 +2,9 @@ h1 {
 color: #000000
 
 }
+nav ul{
+    padding: 0
+}
 
 nav ul li {
     float: left;
@@ -19,4 +22,5 @@ main h1 {
 }
 footer {
     text-align: center;
+    clear:both;
 }
