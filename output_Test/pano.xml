@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" appversion="6.1.13" start="node4">
+  <panorama id="node4">
+    <input height="3048" leveltilesize="510" width="3048" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level height="3048" width="3048" preload="0" predecode="0"/>
+      <level height="1524" width="1524" preload="0" predecode="0"/>
+      <level height="762" width="762" preload="0" predecode="0"/>
+      <level height="381" width="381" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="95" fovmode="0">
+      <start projection="4" tilt="-9.98204" pan="-92.6323" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata info="" longitude="-111.74706638" source="" customnodeid="" copyright="" datetime="12/6/21 9:05 AM" author="" title="" description="" tags="Augmented Tour" latitude="40.29833633" heading="95" comment="" nodeid="node4"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" width="180" backgroundalpha="1" borderalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node3}" skinid="ht_node" tilt="-33.66" title="" description="" target="-32.6/-6.8/70.0" distance="2.04821" pan="268.69"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" enabled="1" zoomspeed="2" zoomfov="20" type="crossdissolve" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <autorotate delay="5.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" speed="0.050" nodefilter="" nodedelay="0.00" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="3085" leveltilesize="510" width="3085" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level height="3085" width="3085" preload="0" predecode="0"/>
+      <level height="1542" width="1542" preload="0" predecode="0"/>
+      <level height="771" width="771" preload="0" predecode="0"/>
+      <level height="385" width="385" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="164" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata info="" longitude="-111.74706638" source="" customnodeid="" copyright="" datetime="12/6/21 9:10 AM" author="" title="" description="" tags="Augmented Tour" latitude="40.29831791" heading="164" comment="" nodeid="node3"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" width="180" backgroundalpha="1" borderalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point02" url="{node1}" skinid="ht_node" tilt="-23.21" title="" description="" target="-32.5/-4.7/70.0" distance="2.49371" pan="333.62"/>
+      <hotspot id="Point03" url="{node2}" skinid="ht_node" tilt="-12.37" title="" description="" target="-117.8/-7.9/70.0" distance="5.30158" pan="333.92"/>
+      <hotspot id="Point01" url="images/AugmentedTour_Popups_1.jpg" skinid="ht_image" tilt="-6.61" title="" description="" target="" pan="-291.42"/>
+      <hotspot id="Point04" url="images/AugmentedTour_Popups_2.jpg" skinid="ht_image" tilt="-15.68" title="" description="" target="" pan="-328.35"/>
+    </hotspots>
+    <media>
+      <video pansize="10.000" rotx="-18.000" tiltsize="10.000" level="1.000" mode="3" fov="42.180" stretch="1.000" loop="1" roty="30.000" nodechangekeep="0" ambientlevel="0.100" height="1080" tilt="-21.950" width="1920" handcursor="0" id="Element01" startmutedmobile="0" clickmode="2" field="90.000" rotz="14.000" pan="-66.750">
+        <source url="media/Photography_1.mp4"/>
+      </video>
+    </media>
+    <transition zoomoutpause="1" softedge="0" enabled="1" zoomspeed="2" zoomfov="20" type="crossdissolve" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <autorotate delay="5.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" speed="0.050" nodefilter="" nodedelay="0.00" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="3039" leveltilesize="510" width="3039" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level height="3039" width="3039" preload="0" predecode="0"/>
+      <level height="1519" width="1519" preload="0" predecode="0"/>
+      <level height="759" width="759" preload="0" predecode="0"/>
+      <level height="379" width="379" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="160" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata info="" longitude="-111.74705431" source="" customnodeid="" copyright="" datetime="12/6/21 9:13 AM" author="" title="" description="" tags="Augmented Tour" latitude="40.29829746" heading="160" comment="" nodeid="node1"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" width="180" backgroundalpha="1" borderalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node3}" skinid="ht_node" tilt="-17.63" title="" description="" target="156.9/-2.1/70.0" distance="2.49371" pan="148.19"/>
+      <hotspot id="Point02" url="{node2}" skinid="ht_node" tilt="-20.9" title="" description="" target="-115.5/-8.7/70.0" distance="2.80953" pan="328.37"/>
+      <hotspot id="Point03" url="images/AugmentedTour_Popups_3.jpg" skinid="ht_image" tilt="-14.23" title="" description="" target="" pan="-67.29"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" enabled="1" zoomspeed="2" zoomfov="20" type="crossdissolve" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <autorotate delay="5.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" speed="0.050" nodefilter="" nodedelay="0.00" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3025" leveltilesize="510" width="3025" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level height="3025" width="3025" preload="0" predecode="0"/>
+      <level height="1512" width="1512" preload="0" predecode="0"/>
+      <level height="756" width="756" preload="0" predecode="0"/>
+      <level height="378" width="378" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="68" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata info="" longitude="-111.74704224" source="" customnodeid="" copyright="" datetime="12/6/21 9:14 AM" author="" title="" description="" tags="Augmented Tour" latitude="40.29827393" heading="68" comment="" nodeid="node2"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" width="180" backgroundalpha="1" borderalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node1}" skinid="ht_node" tilt="-23.65" title="" description="" target="149.2/-5.8/70.0" distance="2.80953" pan="56.09"/>
+      <hotspot id="Point02" url="{node3}" skinid="ht_node" tilt="-8.75" title="" description="" target="152.1/-4.4/70.0" distance="5.30158" pan="56.81"/>
+      <hotspot id="Point03" url="images/AugmentedTour_Popups_4.jpg" skinid="ht_image" tilt="-8.55" title="" description="" target="" pan="-20.03"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" enabled="1" zoomspeed="2" zoomfov="20" type="crossdissolve" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <autorotate delay="5.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" speed="0.050" nodefilter="" nodedelay="0.00" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata info="" longitude="" source="" customnodeid="" copyright="" datetime="" author="" title="" description="" tags="" latitude="" heading="0" comment="" nodeid="master"/>
+  </masternode>
+</tour>
